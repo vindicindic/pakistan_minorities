@@ -39,6 +39,26 @@ The following cleaning steps were taken for this analysis:
   
 ## Analysis
 
+### 1. ~97% of population follows Islam  
+![Population distribution by religion](images/population_distribution_by_religion.png)  
+
+### 2. 94% of Hindus in Pakistan live in Sindh; most of the Hindu population in concentrated in some specific districts
+For the purpose of analysis, we selected a set of districts that have relatively high population of Hindus:  
+* Tharparkar 
+* Umerkot 
+* Badin 
+* Tando Muhammad Khan 
+* Tando Allah Yar 
+* Mirpurkhas 
+* Sanghar 
+* Matiari
+  
+![Sindh Hindu population by district](images/sindh_hindu_population_per_by_district.png)
+
+### 3. Sikhs are not identified as a separate religion in the census
+
+### 4. Hindu populations in Sindh are at the target of forced conversion groups
+
 
 
 
